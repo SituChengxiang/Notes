@@ -42,11 +42,12 @@
 | \mp        | ∓    |
 
 根号：\sqrt[几次方根]{真数}  
-分数：\frac{分子}{分母}  
-向量:\vec{线段}
-$\sqrt[几次方根]{真数}$  
-$\frac{分子}{分母}$ <br><br>
-$\vec{AB}$
+分数：\frac{分子}{分母} 或 \dfrac{分子}{分母}  
+向量: \vec{线段}或\overleftarrow{线段}
+$\sqrt[几次方根]{真数}$  <br><br>
+$\frac{分子}{分母}
+$\dfrac{分子}{分母}$ <br><br>
+$\vec{AB}$或$\overrightarrow{AB}$  
 空格：\quad
 
 万恶的下标：我们来解决一下化学式：\leftrightarrows¹²³⁴⁵⁶⁷⁸⁹⁰⁺⁻₁₂₃₄₅₆₇₈₉₀
