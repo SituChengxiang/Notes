@@ -7,8 +7,12 @@
         "id": "d0db7ab4394fe14a",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "物理/物理-选择性必修第一册.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "物理/物理-选择性必修第一册.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "物理/物理-选择性必修第一册.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "物理/物理-选择性必修第一册.md"
+              }
             }
           }
         ]
@@ -122,6 +130,14 @@
   },
   "active": "d0db7ab4394fe14a",
   "lastOpenFiles": [
+    "物理/物理-必修第二册.md",
+    "物理/更高更妙的高中物理.md",
+    "物理/物理-必修第三册.md",
+    "物理/物理-选择性必修第一册.md",
+    "物理/物理-选择性必修第三册.md",
+    "物理/物理-必修第一册 .md",
+    "物理/物理-选择性必修第二册.md",
+    "README.md",
     "思维导图.md"
   ]
 }
