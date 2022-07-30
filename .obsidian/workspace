@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "化学/化学·必修第二册.md",
+            "file": "化学/化学·选修一-化学反应原理.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 100
   },
   "right": {
     "id": "de0e9f7ec501cabf",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "化学/化学·必修第二册.md",
+                "file": "化学/化学·选修一-化学反应原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "化学/化学·必修第二册.md",
+                "file": "化学/化学·选修一-化学反应原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "化学/化学·必修第二册.md"
+                "file": "化学/化学·选修一-化学反应原理.md"
               }
             }
           }
@@ -131,10 +131,10 @@
   "active": "d0db7ab4394fe14a",
   "lastOpenFiles": [
     "化学/化学·必修第一册.md",
+    "化学/化学·必修第二册.md",
     "化学/化学·选修一-化学反应原理.md",
     "化学/化学·选修二-物质的结构.md",
     "化学/化学·选修三-有机化学基础.md",
-    "化学/化学·必修第二册.md",
     "化学·选择性必修一-化学反应原理.md",
     "物理/物理-选择性必修第一册.md",
     "物理/物理-必修第二册.md",
