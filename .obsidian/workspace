@@ -7,12 +7,8 @@
         "id": "d0db7ab4394fe14a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "数学/数学·必修第二册.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数学/数学·必修第二册.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学/数学·必修第二册.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "数学/数学·必修第二册.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -130,15 +122,15 @@
   },
   "active": "d0db7ab4394fe14a",
   "lastOpenFiles": [
+    "化学/化学·选修二-物质的结构和性质.md",
+    "化学/化学·选修三-有机化学基础.md",
+    "化学/化学·选修一-化学反应原理.md",
     "数学/数学·必修第二册.md",
     "物理/物理-必修第三册.md",
     "物理/物理-选择性必修第三册.md",
     "物理/物理-选择性必修第一册.md",
     "物理/物理-选择性必修第二册.md",
     "物理/物理-必修第二册.md",
-    "平面向量.md",
-    "物理/物理-必修第一册 .md",
-    "思维导图.md",
-    "数学/数学·必修第一册.md"
+    "平面向量.md"
   ]
 }
