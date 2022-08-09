@@ -1,4 +1,5 @@
 {
   "cssTheme": "Minimal",
-  "theme": "moonstone"
+  "theme": "system",
+  "translucency": false
 }
