@@ -3,5 +3,6 @@
   "newLinkFormat": "relative",
   "attachmentFolderPath": "/",
   "strictLineBreaks": true,
-  "spellcheck": true
+  "spellcheck": true,
+  "showLineNumber": true
 }
