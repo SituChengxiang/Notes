@@ -1,8 +1,10 @@
 {
   "alwaysUpdateLinks": true,
   "newLinkFormat": "relative",
-  "attachmentFolderPath": "/",
+  "attachmentFolderPath": "/access",
   "strictLineBreaks": true,
   "spellcheck": true,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "showUnsupportedFiles": true,
+  "useMarkdownLinks": true
 }

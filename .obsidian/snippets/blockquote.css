@@ -1,0 +1,32 @@
+.markdown-preview-view blockquote{
+    border-radius: 20px 20px 20px 20px;
+    border: 1px solid #aaaaaa77;
+    border-right-width: 4px;
+    border-bottom-width: 2px;
+    padding: 10px 20px;
+    margin-inline-start: 15px;
+    margin-inline-end: 15px;
+}
+.theme-light .markdown-preview-view blockquote{
+    background-color: #99999944;
+}
+.theme-dark .markdown-preview-view blockquote{
+    background-color: #99999944;
+}
+.markdown-preview-view blockquote:before {
+    /*content: "\201C";*/
+    color: #999999cc;
+    content: open-quote;
+    font-size: 4em;
+    line-height: 0.1em;
+/*  margin-right: 0.25em; */
+    vertical-align: -0.4em;
+}
+
+.markdown-preview-view blockquote p {
+/*  color: #23384d; */
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    display: inline;
+    font-style: normal;
+}

@@ -2,5 +2,11 @@
   "cssTheme": "Minimal",
   "theme": "system",
   "translucency": false,
-  "interfaceFontFamily": "JetBrains Mono,MiSans"
+  "interfaceFontFamily": "JetBrains Mono,MiSans",
+  "enabledCssSnippets": [
+    "bettertables",
+    "hyphenation-and-justification",
+    "blockquote",
+    "imgmid"
+  ]
 }

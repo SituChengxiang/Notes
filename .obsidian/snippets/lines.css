@@ -1,0 +1,48 @@
+/*预览实线*/
+ul,ol{
+    border-radius: 0 0 0 5px;
+    border-left: 1px solid #267ea7;
+    padding: 0 0 0 45px;
+    margin-left: 0px;
+}
+
+ul ::marker{
+    content: "______";
+    color: #267ea7;
+}
+ol ::marker{
+    color: #267ea7;
+}
+/*编辑虚线*/
+/*列表缩进*/
+.cm-hmd-list-indent .cm-tab,
+/*代码缩进*/
+.cm-hmd-codeblock .cm-tab{
+    /*border: 1px solid #ffffff00;*/
+    padding: 3px;
+    border-right: 1px solid #267ea7;
+    margin-right: 10px;
+}
+.cm-formatting-list-ul::before{
+    content: "--";
+    color: #267ea7;
+}
+.HyperMD-list-line .HyperMD-list-line-2 .CodeMirror-line {
+    border: 1px solid #ffffff;
+ }
+
+/*调整编辑缩进*/
+.HyperMD-list-line{
+    padding-top : 0px !important;
+    margin: 5px;
+}
+/*标号颜色*/
+.cm-s-obsidian span.cm-formatting-list{
+    color: #267ea7;
+}
+.cm-s-obsidian .HyperMD-list-line{
+    padding: 0 0 0  0px;
+    /*margin: 0 0 0 50px;*/
+    min-height: 1.5em;
+    border-left: 1px solid #267ea7;
+}

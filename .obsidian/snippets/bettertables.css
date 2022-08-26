@@ -1,0 +1,45 @@
+/*预览表格全宽*/
+.markdown-preview-view table {
+    width: 100%;
+    margin-top: 12px;
+}
+
+/*表格框线、字体、内边距*/
+.markdown-preview-view td,
+.markdown-preview-view th {
+    border: none;
+    font-size: 14px;
+    padding: 4px 10px;
+}
+/*表头框线、字体*/
+.theme-light .markdown-preview-view th {
+    border-bottom: 1px solid #272727;
+    border-top: 1px solid #272727;
+    font-weight: 800;
+}
+/*表格背景填充灰色*/
+.theme-light .markdown-preview-view tr:nth-child(odd) {
+    background-color:  #e5e5e5;
+}
+/*最后一行画横线*/
+.theme-light .markdown-preview-view tr:last-child {
+    border-bottom: 1px solid  #272727;
+}
+
+/*黑暗主题*/
+.theme-dark .markdown-preview-view th {
+    border-bottom: 2px solid #666666;
+    border-top: 2px solid #999999;
+    font-weight: 800;
+}
+/*表格背景填充灰色*/
+.theme-dark .markdown-preview-view tr:nth-child(odd) {
+    background-color:  #ffffff30;
+}
+.theme-dark .markdown-preview-view tr:nth-child(even) {
+    background-color: #ffffff20;
+}
+/*最后一行画横线*/
+.theme-dark .markdown-preview-view tr:last-child {
+    border-bottom: 1px solid  #999999;
+}
