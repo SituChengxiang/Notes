@@ -6,5 +6,5 @@
   "spellcheck": true,
   "showLineNumber": true,
   "showUnsupportedFiles": true,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": false
 }
