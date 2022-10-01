@@ -4,26 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "b9de1685979f7ad4",
-        "type": "leaf",
-        "dimension": 72.93413173652695,
-        "state": {
-          "type": "graph",
-          "state": {}
-        },
-        "group": "227fb0e455c3208a"
-      },
-      {
         "id": "ec6259a0f4ab9115",
         "type": "leaf",
-        "dimension": 27.065868263473057,
+        "dimension": 27.863577863577866,
         "state": {
           "type": "outline",
           "state": {
-            "file": "数学/数学·选择性必修第一册.md"
+            "file": "英语/高二秋季第2讲·新课标语法之独立主格.md"
           }
-        },
-        "group": "227fb0e455c3208a"
+        }
+      },
+      {
+        "id": "f06910a876badb21",
+        "type": "leaf",
+        "dimension": 72.13642213642214,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "英语/高二秋季第2讲·新课标语法之独立主格.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -71,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208
+    "width": 324
   },
   "right": {
     "id": "de0e9f7ec501cabf",
@@ -87,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "英语/高二秋季第2讲·新课标语法之独立主格.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,6 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "英语/高二秋季第2讲·新课标语法之独立主格.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +129,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "英语/高二秋季第2讲·新课标语法之独立主格.md"
+              }
             }
           }
         ]
@@ -134,8 +141,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b9de1685979f7ad4",
+  "active": "f06910a876badb21",
   "lastOpenFiles": [
+    "英语/高二秋季第1讲·非谓语动词进阶.md",
+    "英语/高一到高二暑假·第1讲·状语从句.md",
     "数学/数学·选择性必修第一册.md",
     "物理/物理-必修第一册.md",
     "物理/更高更妙的高中物理.md",
@@ -143,8 +152,6 @@
     "化学/化学·选修三-有机化学基础.md",
     "README.md",
     "数学/数学·必修第二册.md",
-    "化学/化学·选修一-化学反应原理.md",
-    "物理/物理-必修第三册.md",
-    "物理/物理-选择性必修第三册.md"
+    "化学/化学·选修一-化学反应原理.md"
   ]
 }
