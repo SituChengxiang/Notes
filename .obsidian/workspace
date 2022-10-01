@@ -8,13 +8,8 @@
         "type": "leaf",
         "dimension": 72.93413173652695,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "数学/数学·选择性必修第一册.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         },
         "group": "227fb0e455c3208a"
       },
@@ -92,7 +87,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数学/数学·选择性必修第一册.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +103,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学/数学·选择性必修第一册.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,9 +124,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "数学/数学·选择性必修第一册.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -145,9 +136,9 @@
   },
   "active": "b9de1685979f7ad4",
   "lastOpenFiles": [
+    "数学/数学·选择性必修第一册.md",
     "物理/物理-必修第一册.md",
     "物理/更高更妙的高中物理.md",
-    "数学/数学·选择性必修第一册.md",
     "化学/化学·选修二-物质结构与性质.md",
     "化学/化学·选修三-有机化学基础.md",
     "README.md",
