@@ -73,7 +73,8 @@ LaTeX 的相关学习可以参考[LaTeX 语法速查表](https://www.jianshu.com
 
 还是整不明白？看看这篇文章吧  
 [LaTeX & Markdown 完全指南](https://www.cnblogs.com/Rosmarinus/articles/15553532.html)
-
+[[mathjax_tutorial_mdeditor_201003]]
+[[mathjax_tutorial_mdeditor_220713]]
 ### Obsidian
 
 以下内容部分来自[少数派](https://www.sspai.com)
