@@ -4,18 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "32fb242553267f73",
+        "id": "63613da8a0028914",
         "type": "leaf",
-        "pinned": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "数学/数学·选择性必修第一册.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          },
-          "pinned": true
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -65,7 +58,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数学/数学·选择性必修第一册.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +78,7 @@
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
             }
@@ -97,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学/数学·选择性必修第一册.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "数学/数学·选择性必修第一册.md"
-              }
+              "state": {}
             }
           },
           {
@@ -133,23 +122,23 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 350.5
+    "width": 100
   },
-  "active": "32fb242553267f73",
+  "active": "14e2e01d2a945f88",
   "lastOpenFiles": [
-    "数学/选择性必修第一册/数学选修1·第3章节·圆锥曲线的方程.md",
-    "数学/数学·选择性必修第一册.md",
-    "数学/选择性必修第一册/数学选修1·第1章·空间向量与立体几何.md",
-    "数学/选择性必修第一册/数学选修1·第2章·直线和圆的方程.md",
-    "模板/理科笔记.md",
-    "模板/文科模板.md",
-    "语文/高二秋季第5课·[今]论述类文本之材料分析.md",
-    "语文/高二秋季第4课·[今]论述类文本之论证特点.md",
-    "语文/高二秋季第2课·[古]文言文阅读之文化常识.md",
-    "语文/高二秋季第1课·[古]诗歌鉴赏之表达方式.md"
+    "2022-10-04.md",
+    "英语/科技.md",
+    "英语/介绍信.md",
+    "英语/应用文.md",
+    "英语/高二秋季第2讲·新课标语法之独立主格.md",
+    "英语/建议信.md",
+    "英语/投诉信.md",
+    "英语/演讲稿.md",
+    "续写情绪.md",
+    "mathjax_tutorial_mdeditor_201003.md"
   ]
 }
