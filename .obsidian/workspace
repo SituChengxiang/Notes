@@ -4,11 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "caf058ffc09904f1",
+        "id": "32fb242553267f73",
         "type": "leaf",
+        "pinned": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "数学/数学·选择性必修第一册.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          },
+          "pinned": true
         }
       }
     ],
@@ -31,21 +38,6 @@
             }
           },
           {
-            "id": "2f77bff720990491",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
             "id": "b583c9242dc413f0",
             "type": "leaf",
             "state": {
@@ -57,7 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432
+    "width": 300
   },
   "right": {
     "id": "de0e9f7ec501cabf",
@@ -73,6 +65,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "数学/数学·选择性必修第一册.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,11 +77,27 @@
             }
           },
           {
+            "id": "2f77bff720990491",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
             "id": "859b9dcb3e992dc9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "数学/数学·选择性必修第一册.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,27 +119,37 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "数学/数学·选择性必修第一册.md"
+              }
+            }
+          },
+          {
+            "id": "4028dc349b46891a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 350.5
   },
-  "active": "caf058ffc09904f1",
+  "active": "32fb242553267f73",
   "lastOpenFiles": [
-    "README.md",
-    "mathjax_tutorial_mdeditor_220713[238.md",
-    "mathjax_tutorial_mdeditor_220713.md",
-    "英语/表达积累.md",
-    "[名词性从句.md",
-    "例题.md",
-    "化学/化学·必修第二册.md",
-    "化学/化学·选修一-化学反应原理.md",
-    "英语/高二秋季第2讲·新课标语法之独立主格.md",
-    "英语/高二秋季第1讲·非谓语动词进阶.md"
+    "数学/选择性必修第一册/数学选修1·第3章节·圆锥曲线的方程.md",
+    "数学/数学·选择性必修第一册.md",
+    "数学/选择性必修第一册/数学选修1·第1章·空间向量与立体几何.md",
+    "数学/选择性必修第一册/数学选修1·第2章·直线和圆的方程.md",
+    "模板/理科笔记.md",
+    "模板/文科模板.md",
+    "语文/高二秋季第5课·[今]论述类文本之材料分析.md",
+    "语文/高二秋季第4课·[今]论述类文本之论证特点.md",
+    "语文/高二秋季第2课·[古]文言文阅读之文化常识.md",
+    "语文/高二秋季第1课·[古]诗歌鉴赏之表达方式.md"
   ]
 }

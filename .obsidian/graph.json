@@ -5,83 +5,83 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:信技",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 16761538
       }
     },
     {
       "query": "path:化学",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 35337
       }
     },
     {
       "query": "path:地理",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 14544477
       }
     },
     {
       "query": "path:历史",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 14389028
       }
     },
     {
       "query": "path:政治",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 16198443
       }
     },
     {
       "query": "path:数学",
       "color": {
         "a": 1,
-        "rgb": 5419488
+        "rgb": 1048527
       }
     },
     {
       "query": "path:物理",
       "color": {
         "a": 1,
-        "rgb": 5395168
+        "rgb": 40447
       }
     },
     {
       "query": "path:语文",
       "color": {
         "a": 1,
-        "rgb": 11621088
+        "rgb": 16223629
       }
     },
     {
       "query": "path:英语",
       "color": {
         "a": 1,
-        "rgb": 14701233
+        "rgb": 31226
       }
     },
     {
       "query": "path:生物",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 778304
       }
     },
     {
       "query": "path:通技",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 14727918
       }
     }
   ],
@@ -95,6 +95,6 @@
   "repelStrength": 8.86486486486487,
   "linkStrength": 0.448648648648649,
   "linkDistance": 500,
-  "scale": 0.2292013594175033,
-  "close": false
+  "scale": 0.16348370567221407,
+  "close": true
 }
