@@ -1,12 +1,15 @@
 {
   "cssTheme": "Minimal",
   "theme": "system",
-  "translucency": false,
+  "translucency": true,
   "interfaceFontFamily": "JetBrains Mono,MiSans",
   "enabledCssSnippets": [
     "bettertables",
     "hyphenation-and-justification",
     "blockquote",
     "imgmid"
-  ]
+  ],
+  "accentColor": "#0074d0",
+  "textFontFamily": "MiSans,HarmonyOS Sans SC,Helvetica",
+  "monospaceFontFamily": "JetBrains Mono"
 }
