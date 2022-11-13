@@ -4,23 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "86bc4731fad5f8cb",
+        "id": "f0994d523e51f177",
         "type": "tabs",
         "children": [
           {
-            "id": "687f7698d3d1cf05",
+            "id": "3eb8a39eeff44d04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学/选择性必修第1册/数学选修1·第3章·圆锥曲线的方程.md",
+                "file": "数学/选择性必修第1册/数学选修1·第1章·空间向量与立体几何.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dfd84509381f598e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "语文/高二秋季第5课·[今]论述类文本之材料分析.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "600cb481080bb5f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "高二秋季第6课·.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -55,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 503.5
   },
   "right": {
     "id": "de0e9f7ec501cabf",
@@ -71,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数学/选择性必修第1册/数学选修1·第3章·圆锥曲线的方程.md",
+                "file": "高二秋季第6课·.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学/选择性必修第1册/数学选修1·第3章·圆锥曲线的方程.md",
+                "file": "高二秋季第6课·.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数学/选择性必修第1册/数学选修1·第3章·圆锥曲线的方程.md"
+                "file": "高二秋季第6课·.md"
               }
             }
           },
@@ -145,17 +172,17 @@
     "direction": "horizontal",
     "width": 100
   },
-  "active": "687f7698d3d1cf05",
+  "active": "600cb481080bb5f1",
   "lastOpenFiles": [
+    "语文/高二秋季第5课·[今]论述类文本之材料分析.md",
+    "数学/选择性必修第1册/数学选修1·第1章·空间向量与立体几何.md",
+    "数学/选择性必修第1册/数学选修1·第2章·直线和圆的方程.md",
     "数学/选择性必修第1册/数学选修1·第3章·圆锥曲线的方程.md",
     "物理/物理-选择性必修第一册.md",
     "2022-10-04.md",
     "英语/科技.md",
     "英语/介绍信.md",
     "英语/应用文.md",
-    "英语/高二秋季第2讲·新课标语法之独立主格.md",
-    "英语/建议信.md",
-    "英语/投诉信.md",
-    "英语/演讲稿.md"
+    "英语/高二秋季第2讲·新课标语法之独立主格.md"
   ]
 }
