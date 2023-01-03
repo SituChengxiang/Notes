@@ -2,7 +2,7 @@
   "cssTheme": "Minimal",
   "theme": "system",
   "translucency": true,
-  "interfaceFontFamily": "JetBrains Mono,MiSans",
+  "interfaceFontFamily": "MiSans,JetBrainsMono Nerd Font",
   "enabledCssSnippets": [
     "bettertables",
     "hyphenation-and-justification",
@@ -10,6 +10,6 @@
     "imgmid"
   ],
   "accentColor": "#0074d0",
-  "textFontFamily": "MiSans,HarmonyOS Sans SC,Helvetica",
+  "textFontFamily": "MiSans",
   "monospaceFontFamily": "JetBrains Mono"
 }
