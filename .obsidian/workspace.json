@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "通技/通技·必修一-必修技术与设计1.md",
+                "file": "信技/信技·必修一-数据与计算.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "通技/通技·必修一-必修技术与设计1.md",
+                "file": "信技/信技·必修一-数据与计算.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "通技/通技·必修一-必修技术与设计1.md",
+                "file": "信技/信技·必修一-数据与计算.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "通技/通技·必修一-必修技术与设计1.md"
+                "file": "信技/信技·必修一-数据与计算.md"
               }
             }
           },
@@ -159,6 +159,7 @@
   },
   "active": "49beed0efc3b12c9",
   "lastOpenFiles": [
+    "通技/通技·必修一-必修技术与设计1.md",
     "英语/应用文.md",
     "数学/选择性必修第1册/数学选修1·第1章·空间向量与立体几何.md",
     "语文/高二秋季第5课·[今]论述类文本之材料分析.md",
@@ -167,7 +168,6 @@
     "物理/物理-选择性必修第一册.md",
     "2022-10-04.md",
     "英语/科技.md",
-    "英语/介绍信.md",
-    "英语/高二秋季第2讲·新课标语法之独立主格.md"
+    "英语/介绍信.md"
   ]
 }

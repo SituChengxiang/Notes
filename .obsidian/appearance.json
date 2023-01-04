@@ -11,5 +11,6 @@
   ],
   "accentColor": "#0074d0",
   "textFontFamily": "MiSans",
-  "monospaceFontFamily": "JetBrains Mono"
+  "monospaceFontFamily": "JetBrains Mono",
+  "nativeMenus": true
 }
