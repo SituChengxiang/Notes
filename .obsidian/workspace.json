@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "217aa0c81ccec6cb",
+        "id": "c21ceeffe59ef14d",
         "type": "tabs",
         "children": [
           {
-            "id": "49beed0efc3b12c9",
+            "id": "7d93dee54cca0adc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -55,7 +55,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5
+    "width": 204.5
   },
   "right": {
     "id": "de0e9f7ec501cabf",
@@ -157,17 +157,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "49beed0efc3b12c9",
+  "active": "7d93dee54cca0adc",
   "lastOpenFiles": [
+    "信技/信技·选修一-数据与数据结构.md",
     "通技/通技·必修一-必修技术与设计1.md",
+    "信技/信技·必修一-数据与计算.md",
     "英语/应用文.md",
     "数学/选择性必修第1册/数学选修1·第1章·空间向量与立体几何.md",
     "语文/高二秋季第5课·[今]论述类文本之材料分析.md",
     "数学/选择性必修第1册/数学选修1·第2章·直线和圆的方程.md",
     "数学/选择性必修第1册/数学选修1·第3章·圆锥曲线的方程.md",
     "物理/物理-选择性必修第一册.md",
-    "2022-10-04.md",
-    "英语/科技.md",
-    "英语/介绍信.md"
+    "2022-10-04.md"
   ]
 }
