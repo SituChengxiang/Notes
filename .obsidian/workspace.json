@@ -4,18 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "5079a9d2dcdac443",
+        "id": "9643099eb57d1ff0",
         "type": "tabs",
         "children": [
           {
-            "id": "0cbb84907f1bd427",
+            "id": "4d9e8467018d0707",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "markdown",
+              "state": {
+                "file": "数学/数学·必修第二册.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "51aebd3a12f0534c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -50,8 +64,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 388.5
   },
   "right": {
     "id": "de0e9f7ec501cabf",
@@ -149,8 +162,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0cbb84907f1bd427",
+  "active": "51aebd3a12f0534c",
   "lastOpenFiles": [
+    "数学/数学·必修第二册.md",
+    "数学/选择性必修第1册/数学选修1·第1章·空间向量与立体几何.md",
     "语文/高二寒假第3课·[古]文言文之高频实词.md",
     "语文/高二秋季第2课·[古]文言文阅读之文化常识.md",
     "语文/文言文化常识积累.md",
@@ -158,8 +173,6 @@
     "数学/选择性必修第1册/数学选修1·第2章·直线和圆的方程.md",
     "语文/高二寒假第2课·诗歌鉴赏之走进晚唐时期.md",
     "语文/高二秋季第1课·[古]诗歌鉴赏之表达方式.md",
-    "语文/高二秋季第4课·[今]论述类文本之论证特点.md",
-    "语文/高二秋季第5课·[今]论述类文本之材料分析.md",
-    "语文/高二秋季第6课·[文]人与环境类作文.md"
+    "语文/高二秋季第4课·[今]论述类文本之论证特点.md"
   ]
 }
