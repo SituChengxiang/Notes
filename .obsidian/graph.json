@@ -5,7 +5,7 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:信技",
@@ -67,7 +67,7 @@
       "query": "path:英语",
       "color": {
         "a": 1,
-        "rgb": 31226
+        "rgb": 13893887
       }
     },
     {
@@ -95,6 +95,6 @@
   "repelStrength": 10.1020408163265,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.15698759901499618,
-  "close": true
+  "scale": 1.192124580020162,
+  "close": false
 }

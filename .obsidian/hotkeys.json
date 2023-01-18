@@ -1,13 +1,4 @@
 {
-  "obsidian-pangu:pangu-format": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "S"
-    }
-  ],
   "editor:toggle-source": [
     {
       "modifiers": [
