@@ -8,62 +8,6 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:信技",
-      "color": {
-        "a": 1,
-        "rgb": 16761538
-      }
-    },
-    {
-      "query": "path:化学",
-      "color": {
-        "a": 1,
-        "rgb": 35337
-      }
-    },
-    {
-      "query": "path:地理",
-      "color": {
-        "a": 1,
-        "rgb": 14544477
-      }
-    },
-    {
-      "query": "path:历史",
-      "color": {
-        "a": 1,
-        "rgb": 14389028
-      }
-    },
-    {
-      "query": "path:政治",
-      "color": {
-        "a": 1,
-        "rgb": 16198443
-      }
-    },
-    {
-      "query": "path:数学",
-      "color": {
-        "a": 1,
-        "rgb": 1048527
-      }
-    },
-    {
-      "query": "path:物理",
-      "color": {
-        "a": 1,
-        "rgb": 40447
-      }
-    },
-    {
-      "query": "path:语文",
-      "color": {
-        "a": 1,
-        "rgb": 16223629
-      }
-    },
-    {
       "query": "path:英语",
       "color": {
         "a": 1,
@@ -71,17 +15,59 @@
       }
     },
     {
-      "query": "path:生物",
+      "query": "path:语文",
       "color": {
         "a": 1,
-        "rgb": 778304
+        "rgb": 16711680
       }
     },
     {
-      "query": "path:通技",
+      "query": "path:数学",
       "color": {
         "a": 1,
-        "rgb": 14727918
+        "rgb": 54783
+      }
+    },
+    {
+      "query": "path:物理",
+      "color": {
+        "a": 1,
+        "rgb": 4687359
+      }
+    },
+    {
+      "query": "path:化学",
+      "color": {
+        "a": 1,
+        "rgb": 7990470
+      }
+    },
+    {
+      "query": "path:生物",
+      "color": {
+        "a": 1,
+        "rgb": 1557012
+      }
+    },
+    {
+      "query": "path:历史",
+      "color": {
+        "a": 1,
+        "rgb": 13337867
+      }
+    },
+    {
+      "query": "path:地理",
+      "color": {
+        "a": 1,
+        "rgb": 2781699
+      }
+    },
+    {
+      "query": "path:政治",
+      "color": {
+        "a": 1,
+        "rgb": 10916094
       }
     }
   ],
@@ -95,6 +81,6 @@
   "repelStrength": 10.1020408163265,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.6065075491764481,
-  "close": false
+  "scale": 0.32133638605036213,
+  "close": true
 }
