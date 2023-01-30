@@ -4,84 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "013ff245348a675d",
+        "id": "aff7d27f8b275051",
         "type": "tabs",
         "children": [
           {
-            "id": "b6fc4541ccdf1fe2",
+            "id": "9d86508b39abd08b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数学/选择性必修第1册/数学选修1·第3章·圆锥曲线的方程.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9562994865834f94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数学/选择性必修第1册/数学选修1·第3章·圆锥曲线的方程.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "424f420b37a1e829",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "英语/高二秋季第2讲·新课标语法之独立主格.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "24c2fa71fd02b91f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "英语/语法.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e481bcd96822466",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "英语/高二秋季第2讲·新课标语法之独立主格.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "93c6a78cfe3b2fec",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,20 +132,6 @@
           }
         ],
         "currentTab": 5
-      },
-      {
-        "id": "831a0d72a924030d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "28ebeb3111caa0cb",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -229,16 +149,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "93c6a78cfe3b2fec",
+  "active": "9d86508b39abd08b",
   "lastOpenFiles": [
+    "数学/选择性必修第1册/数学选修1·第3章·圆锥曲线的方程.md",
     "英语/高二秋季第2讲·新课标语法之独立主格.md",
+    "英语/语法.md",
     "化学/化学·选修三-有机化学基础.md",
     "化学/化学·选修二-物质结构与性质.md",
     "物理/物理-选择性必修第三册.md",
     "化学/化学·必修第二册.md",
     "英语/高二秋季第5讲·完形填空之好人好事.md",
-    "英语/语法.md",
-    "数学/选择性必修第1册/数学选修1·第3章·圆锥曲线的方程.md",
     "数学/选择性必修第1册/数学选修1·第2章·直线和圆的方程.md",
     "英语/续写.md"
   ]

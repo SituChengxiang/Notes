@@ -1,7 +1,7 @@
 {
   "cssTheme": "Minimal",
   "theme": "system",
-  "translucency": true,
+  "translucency": false,
   "interfaceFontFamily": "MiSans,JetBrainsMono Nerd Font,JetBrains Mono",
   "enabledCssSnippets": [
     "bettertables",
