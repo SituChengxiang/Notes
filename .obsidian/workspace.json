@@ -11,11 +11,38 @@
             "id": "9d86508b39abd08b",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "markdown",
+              "state": {
+                "file": "数学/选择性必修第1册/数学选修1·第3章·圆锥曲线的方程.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f917371b4ec1e20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "物理/物理-必修第一册.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d9b03d741086178b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -50,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "de0e9f7ec501cabf",
@@ -149,17 +175,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9d86508b39abd08b",
+  "active": "d9b03d741086178b",
   "lastOpenFiles": [
+    "物理/物理-必修第一册.md",
     "数学/选择性必修第1册/数学选修1·第3章·圆锥曲线的方程.md",
-    "英语/高二秋季第2讲·新课标语法之独立主格.md",
-    "英语/语法.md",
-    "化学/化学·选修三-有机化学基础.md",
-    "化学/化学·选修二-物质结构与性质.md",
-    "物理/物理-选择性必修第三册.md",
-    "化学/化学·必修第二册.md",
-    "英语/高二秋季第5讲·完形填空之好人好事.md",
-    "数学/选择性必修第1册/数学选修1·第2章·直线和圆的方程.md",
-    "英语/续写.md"
+    "语文/高一到高二暑假·第5讲·小说阅读之含义理解.md",
+    "语文/高二秋季第8课·「文」语言运用之修辞手法.md",
+    "语文/高二寒假第4课·「今」中外戏剧阅读鉴赏.md",
+    "语文/小说环境作用.md",
+    "语文/高一到高二第13课·「文」作文必备之平凡与伟大.md",
+    "语文/高一到高二暑假·第9讲·语言应用之应用语段.md",
+    "语文/高二寒假第6课·「今」名著阅读之《乡土中国》.md",
+    "语文/名著阅读.md"
   ]
 }
