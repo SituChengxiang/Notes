@@ -2,7 +2,7 @@
   "cssTheme": "Minimal",
   "theme": "system",
   "translucency": false,
-  "interfaceFontFamily": "MiSans,JetBrainsMono Nerd Font,JetBrains Mono",
+  "interfaceFontFamily": "MiSans,JetBrains Mono,Ink Free",
   "enabledCssSnippets": [
     "bettertables",
     "hyphenation-and-justification",

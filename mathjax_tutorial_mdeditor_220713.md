@@ -46,25 +46,32 @@ $\TeX$ 可使用行中公式放在文中与其它文字混编，或单独成行�
 :    自动编号后的公式可在全文任意处使用 `\eqref{eq:公式名}` 语句引用。
 
 - 例子：
-```
-$ J_\alpha(x) = \sum_{m=0}^\infty \frac{(-1)^m}{m! \Gamma (m + \alpha + 1)} {\left({ \frac{x}{2} }\right)}^{2m + \alpha} \text {，行内公式示例} $
-```
+  
+  ```
+  $ J_\alpha(x) = \sum_{m=0}^\infty \frac{(-1)^m}{m! \Gamma (m + \alpha + 1)} {\left({ \frac{x}{2} }\right)}^{2m + \alpha} \text {，行内公式示例} $
+  ```
+
 - 显示： $ J_\alpha(x) = \sum_{m=0}^\infty \frac{(-1)^m}{m! \Gamma (m + \alpha + 1)} {\left({ \frac{x}{2} }\right)}^{2m + \alpha} \text {，行内公式示例} $
 
 - 例子：
-```
-$$ J_\alpha(x) = \sum_{m=0}^\infty \frac{(-1)^m}{m! \Gamma (m + \alpha + 1)} {\left({ \frac{x}{2} }\right)}^{2m + \alpha} \text{，独立公式示例，使用 \tag 手动编号} \tag{0.1} $$
-```
+  
+  ```
+  $$ J_\alpha(x) = \sum_{m=0}^\infty \frac{(-1)^m}{m! \Gamma (m + \alpha + 1)} {\left({ \frac{x}{2} }\right)}^{2m + \alpha} \text{，独立公式示例，使用 \tag 手动编号} \tag{0.1} $$
+  ```
+
 - 显示： $$ J_\alpha(x) = \sum_{m=0}^\infty \frac{(-1)^m}{m! \Gamma (m + \alpha + 1)} {\left({ \frac{x}{2} }\right)}^{2m + \alpha} \text{，独立公式示例，使用 \tag 手动编号} \tag{0.1} $$
 
 - 例子：
-```
-$$ 在公式 \eqref{eq:sample} 中，我们看到了这个被自动编号的公式。$$
+  
+  ```
+  $$ 在公式 \eqref{eq:sample} 中，我们看到了这个被自动编号的公式。$$
+  ```
 
 \begin{equation}
     E=mc^2 \text{，自动编号公式示例}
     \label{eq:sample}
 \end{equation}
+
 ```
 - 显示：
 
@@ -88,7 +95,9 @@ $$ 在公式 \eqref{eq:sample} 中，我们看到了这个被自动编号的公�
 
 - 例子：
 ```
+
 $$ x^{y^z}=(1+{\rm e}^x)^{-2xy^w} $$
+
 ```
 - 显示：$$ x^{y^z}=(1+{\rm e}^x)^{-2xy^w} $$
 
@@ -97,7 +106,9 @@ $$ x^{y^z}=(1+{\rm e}^x)^{-2xy^w} $$
 
 - 例子：
 ```
+
 $$ \sideset{^1_2}{^3_4}\bigotimes \quad or \quad {^1_2}\bigotimes {^3_4} $$
+
 ```
 - 显示：$$\sideset{^1_2}{^3_4}\bigotimes \quad or \quad {^1_2}\bigotimes {^3_4} $$
 
@@ -120,7 +131,9 @@ $$ \sideset{^1_2}{^3_4}\bigotimes \quad or \quad {^1_2}\bigotimes {^3_4} $$
 
 - 例子：
 ```
+
 $$ f(x,y,z) = 3y^2z \left( 3+\frac{7x+5}{1+y^2} \right) $$
+
 ```
 - 显示：$$ f(x,y,z) = 3y^2z \left( 3+\frac{7x+5}{1+y^2} \right) $$
 
@@ -128,7 +141,9 @@ $$ f(x,y,z) = 3y^2z \left( 3+\frac{7x+5}{1+y^2} \right) $$
 
 - 例子：
 ```
+
 $$ \left. \frac{{\rm d}u}{{\rm d}x} \right| _{x=0} $$
+
 ```
 - 显示：$$ \left. \frac{{\rm d}u}{{\rm d}x} \right| _{x=0} $$
 
@@ -140,7 +155,9 @@ $$ \left. \frac{{\rm d}u}{{\rm d}x} \right| _{x=0} $$
 
 - 例子：
 ```
+
 $$ \frac{a-1}{b-1} \quad or \quad {a+1 \over b+1} $$
+
 ```
 - 显示：$$ \frac{a-1}{b-1} \quad or \quad {a+1 \over b+1} $$
 
@@ -148,7 +165,9 @@ $$ \frac{a-1}{b-1} \quad or \quad {a+1 \over b+1} $$
 
 - 例子：
 ```
+
 $$ \frac 12,\frac 1a,\frac a2 \quad \mid \quad \text{2 letters only:} \quad \frac 12a \,, k\frac q{r^2} $$
+
 ```
 - 显示：$$ \frac 12,\frac 1a,\frac a2 \quad \mid \quad \text{2 letters only:} \quad \frac 12a \,, k\frac q{r^2} $$
 
@@ -159,7 +178,9 @@ $$ \frac 12,\frac 1a,\frac a2 \quad \mid \quad \text{2 letters only:} \quad \fra
 
 - 例子：
 ```
+
 $$ \sqrt{2} \quad or \quad \sqrt[n]{3} $$
+
 ```
 - 显示：$$ \sqrt{2} \quad or \quad \sqrt[n]{3} $$
 
@@ -169,7 +190,9 @@ $$ \sqrt{2} \quad or \quad \sqrt[n]{3} $$
 
 - 例子：
 ```
+
 $$ f(x_1,x_2,\underbrace{\ldots}_{\rm ldots} ,x_n) = x_1^2 + x_2^2 + \underbrace{\cdots}_{\rm cdots} + x_n^2 $$
+
 ```
 - 显示：$$ f(x_1,x_2,\underbrace{\ldots}_{\rm ldots} ,x_n) = x_1^2 + x_2^2 + \underbrace{\cdots}_{\rm cdots} + x_n^2 $$
 
@@ -180,13 +203,17 @@ $$ f(x_1,x_2,\underbrace{\ldots}_{\rm ldots} ,x_n) = x_1^2 + x_2^2 + \underbrace
 
 - 例子：
 ```
+
 $$ \vec{a} \cdot \vec{b}=0 $$
+
 ```
 - 显示：$$ \vec{a} \cdot \vec{b}=0 $$
 
 - 例子：
 ```
+
 $$ xy \text{ with arrows:} \quad \overleftarrow{xy} \; \mid \; \overleftrightarrow{xy} \; \mid \; \overrightarrow{xy} $$
+
 ```
 - 显示：$$ xy \text{ with arrows:} \quad \overleftarrow{xy} \; \mid \; \overleftrightarrow{xy} \; \mid \; \overrightarrow{xy} $$
 
@@ -196,7 +223,9 @@ $$ xy \text{ with arrows:} \quad \overleftarrow{xy} \; \mid \; \overleftrightarr
 
 例子：
 ```
+
 $$ \int_0^1 {x^2} \,{\rm d}x $$
+
 ```
 显示：$$ \int_0^1 {x^2} \,{\rm d}x $$
 
@@ -208,7 +237,9 @@ $$ \int_0^1 {x^2} \,{\rm d}x $$
 
 例子：
 ```
+
 $$ \lim_{n \to \infty} \frac{1}{n(n+1)} \quad and \quad \lim_{x\leftarrow{示例}} \frac{1}{n(n+1)} $$
+
 ```
 显示：$$ \lim_{n \to \infty} \frac{1}{n(n+1)} \quad and \quad \lim_{x\leftarrow{示例}} \frac{1}{n(n+1)} $$
 
@@ -226,7 +257,9 @@ $$ \lim_{n \to \infty} \frac{1}{n(n+1)} \quad and \quad \lim_{x\leftarrow{示例
 
 - 例子：
 ```
+
 $$ \sum_{i=1}^n \frac{1}{i^2} \quad and \quad \prod_{i=1}^n \frac{1}{i^2} \quad and \quad \bigcup_{i=1}^{2} \Bbb{R} $$
+
 ```
 - 显示：$$ \sum_{i=1}^n \frac{1}{i^2} \quad and \quad \prod_{i=1}^n \frac{1}{i^2} \quad and \quad \bigcup_{i=1}^{2} \Bbb{R} $$
 
@@ -338,14 +371,18 @@ MathJax 针对任意元素均提供从小至大 `\tiny` `\Tiny` `\scriptsize` `\
 
 - 例子：
 ```
+
 $$ \verb+\overset{above}{level}+ \qquad \overset{xx}{ABC} \;\; \mid \quad \overset{x^2}{\longmapsto}\ \, \mid \quad \overset{\bullet\circ\circ\bullet}{T} $$
+
 ```
 - 显示：
 $$ \verb+\overset{above}{level}+ \qquad \overset{xx}{ABC} \;\; \mid \quad \overset{x^2}{\longmapsto}\ \, \mid \quad \overset{\bullet\circ\circ\bullet}{T} $$
 
 - 例子：
 ```
+
 $$ \verb+\underset{below}{level}+ \qquad \underset{xx}{ABC} \;\; \mid \quad \underset{x^2}{\longmapsto}\ \, \mid \quad \underset{\bullet\circ\circ\bullet}{T} $$
+
 ```
 - 显示：
 $$ \verb+\underset{below}{level}+ \qquad \underset{xx}{ABC} \;\; \mid \quad \underset{x^2}{\longmapsto}\ \, \mid \quad \underset{\bullet\circ\circ\bullet}{T} $$
@@ -419,11 +456,13 @@ $$ \rm{2OH^{\circ}_{O(STN)}+2O^{\times}_{O(YSZ)} \; \overset{Surface/bulk}{\unde
 
 - 例子：
 ```
+
 \begin{array}{cc}
     \mathrm{Bad} & \mathrm{Better} \\
     \hline \\
     \int_0^1 x^2 dx & \int_0^1 x^2 \,{\rm d}x
 \end{array}
+
 ```
 - 显示：
 \begin{array}{cc}
@@ -442,11 +481,13 @@ $$ \rm{2OH^{\circ}_{O(STN)}+2O^{\times}_{O(YSZ)} \; \overset{Surface/bulk}{\unde
 
 - 例子：
 ```
+
 $$
 \bbox[yellow]{
     e^x=\lim_{n\to\infty} \left( 1+\frac{x}{n} \right)^n \qquad (1)
 }
 $$
+
 ```
 - 显示：
 $$
@@ -456,11 +497,13 @@ $$
 $$
 - 例子：
 ```
+
 $$
 \bbox[#9ff, 5px]{ % 此处向外添加 5 像素的边距
     e^x=\lim_{n\to\infty} \left( 1+\frac{x}{n} \right)^n \qquad (1)
 }
 $$
+
 ```
 - 显示：
 $$
@@ -470,12 +513,14 @@ $$
 $$
 - 例子：
 ```
+
 $$
 % 此处使用 0.5 倍行高作为边距，附加 2 像素的实线边框（Ctrl+Alt+Y 可见）
 \bbox[#2f3542, 0.5em, border:2px solid #f1f2f6]{
     \color{#f1f2f6}{e^x=\lim_{n\to\infty} \left( 1+\frac{x}{n} \right)^n \qquad (1)}
 }
 $$
+
 ```
 - 显示：
 $$
@@ -491,6 +536,7 @@ $$
 
 - 例子：
 ```
+
 $$
 f\left(
    \left[ 
@@ -506,6 +552,7 @@ f\left(
 \right)
 \tag {行标}
 $$
+
 ```
 - 显示：
 $$
@@ -528,12 +575,14 @@ $$
 
 - 例子：
 ```
+
 $$
 \begin{align*}
     a=&\left(1+2+3+ \cdots \right. \\
       &\cdots+\left. \infty-2+\infty-1+\infty\right)
 \end{align*}
 $$
+
 ```
 - 显示：
 $$
@@ -547,6 +596,7 @@ $$
 
 - 例子：
 ```
+
 $$
 \left\langle  
     q \; \middle|
@@ -554,6 +604,7 @@ $$
     \middle\| p 
 \right\rangle
 $$
+
 ```
 - 显示：
 $$
@@ -572,12 +623,14 @@ $$
 
 - **反例：** 
 ```
+
 \begin{array}{c|c}
     \mathrm{Error} & \text{Wrong rendering} \\
     \hline \\
     \arsinh(x) & arsinh(x) \\
     \Res_{z=1} & Res_{z=1}{\frac{1}{z^2-z}=1} \\
 \end{array}
+
 ```
 - 显示： 
 \begin{array}{c|c}
@@ -591,12 +644,14 @@ $$
 
 - 例子：
 ```
+
 \begin{array}{c|c}
     \text{Normal Operator} & \text{Operator with label above and below} \\
     \hline \\
     \scriptsize\text{\operatorname{arsinh}{x}} & \scriptsize\text{\operatorname*{Res}_{z=1}{\frac{1}{z^2-z}=1}} \\
     \operatorname{arsinh}{x} & \operatorname*{Res}_{z=1}{\frac{1}{z^2-z}=1} \\
 \end{array}
+
 ```
 - 显示： 
 \begin{array}{c|c}
@@ -614,7 +669,9 @@ $$
 
 - 例子：
 ```
+
 $$ f(n)= \begin{cases} n/2, & \text {if $n$ is even} \\ 3n+1, & \text{if $n$ is odd} \end{cases} $$
+
 ```
 - 显示：
 $$ f(n)= \begin{cases} n/2, & \text {if $n$ is even} \\ 3n+1, & \text{if $n$ is odd} \end{cases} $$
@@ -628,11 +685,13 @@ $$ f(n)= \begin{cases} n/2, & \text {if $n$ is even} \\ 3n+1, & \text{if $n$ is 
 
 - 例子：
 ```
+
 \begin{array}{c|c}
     \text{Spaces} & \text{Negative Space in Units} \\
     \hline \\
     \overbrace{a \! b}^{\text{\!}} \mid \underbrace{ab}_{\rm{default}} \mid \overbrace{a \, b}^{\text{\,}} \mid \underbrace{a \; b}_{\text{\;}} \mid \overbrace{a \quad b}^{\text{\quad}} \mid \underbrace{a \qquad b}_{\text{\qquad}} & \mathrm{N}\!\cdot\!\mathrm{m} \mid \mathrm{s}\!\cdot\!\mathrm{A} \mid \mathrm{kg}\!\cdot\!\mathrm{m}^2 \\ 
 \end{array}
+
 ```
 - 显示：
 \begin{array}{c|c}
@@ -645,9 +704,11 @@ $$ f(n)= \begin{cases} n/2, & \text {if $n$ is even} \\ 3n+1, & \text{if $n$ is 
 
 - 例子：
 ```
+
 $$ \mu_0=4\pi\times10^{-7} \ \left.\mathrm{\mathrm{T}\!\cdot\!\mathrm{m}}\middle/\mathrm{A}\right. $$
 $$ 180^\circ=\pi \ \mathrm{rad} $$
 $$ \mathrm{N_A} = 6.022\times10^{23} \ \mathrm{mol}^{-1} $$
+
 ```
 - 显示：
 $$ \mu_0=4\pi\times10^{-7} \ \left.\mathrm{\mathrm{T}\!\cdot\!\mathrm{m}}\middle/\mathrm{A}\right. $$ $$ 180^\circ=\pi \ \mathrm{rad} $$ $$ \mathrm{N_A} = 6.022\times10^{23} \ \mathrm{mol}^{-1} $$
@@ -675,6 +736,7 @@ $$ \mu_0=4\pi\times10^{-7} \ \left.\mathrm{\mathrm{T}\!\cdot\!\mathrm{m}}\middle
 
 - 例子：
 ```
+
 \begin{array}{|rrrrrrrr|}\hline
     \verb+#000+ & \color{#000}{text} & & &
     \verb+#00F+ & \color{#00F}{text} & & \\
@@ -685,6 +747,7 @@ $$ \mu_0=4\pi\times10^{-7} \ \left.\mathrm{\mathrm{T}\!\cdot\!\mathrm{m}}\middle
     & & \verb+#FF0+ & \color{#FF0}{text} &
     & & \verb+#FFF+ & \color{#FFF}{text} \\
 \hline\end{array}
+
 ```
 - 显示：
 \begin{array}{|rrrrrrrr|}\hline
@@ -700,6 +763,7 @@ $$ \mu_0=4\pi\times10^{-7} \ \left.\mathrm{\mathrm{T}\!\cdot\!\mathrm{m}}\middle
 
 - 例子：
 ```
+
 \begin{array}{|rrrrrrrr|}\hline
     \verb+#000+ & \color{#000}{text} & \verb+#005+ & \color{#005}{text} & \verb+#00A+ & \color{#00A}{text} & \verb+#00F+ & \color{#00F}{text}  \\
     \verb+#500+ & \color{#500}{text} & \verb+#505+ & \color{#505}{text} & \verb+#50A+ & \color{#50A}{text} & \verb+#50F+ & \color{#50F}{text}  \\
@@ -716,6 +780,7 @@ $$ \mu_0=4\pi\times10^{-7} \ \left.\mathrm{\mathrm{T}\!\cdot\!\mathrm{m}}\middle
     \verb+#AF0+ & \color{#AF0}{text} & \verb+#AF5+ & \color{#AF5}{text} & \verb+#AFA+ & \color{#AFA}{text} & \verb+#AFF+ & \color{#AFF}{text}  \\
     \verb+#FF0+ & \color{#FF0}{text} & \verb+#FF5+ & \color{#FF5}{text} & \verb+#FFA+ & \color{#FFA}{text} & \verb+#FFF+ & \color{#FFF}{text}  \\
 \hline\end{array}
+
 ```
 - 显示：
 \begin{array}{|rrrrrrrr|}\hline
@@ -744,6 +809,7 @@ $$ \mu_0=4\pi\times10^{-7} \ \left.\mathrm{\mathrm{T}\!\cdot\!\mathrm{m}}\middle
 
 - 例子：
 ```
+
 $$
 \require{cancel}
 \begin{array}{rl}
@@ -755,6 +821,7 @@ $$
     \verb+\frac{1\cancel9}{\cancel95} = \frac15+& \frac{1\cancel9}{\cancel95} = \frac15 \\
 \end{array}
 $$
+
 ```
 - 显示：
 $$
@@ -775,6 +842,7 @@ $$
 
 - 例子：
 ```
+
 $$
 \require{enclose}
 \begin{array}{rl}
@@ -785,6 +853,7 @@ $$
     \verb|\enclose{horizontalstrike,updiagonalstrike}{x+y}| & \enclose{horizontalstrike,updiagonalstrike}{x+y} \\
 \end{array}
 $$
+
 ```
 - 显示：
 $$
@@ -805,6 +874,7 @@ $$
 |分别使用 `circle` 和 `roundedbox` 包围的公式|
 |:--:|
 ```
+
 $$
 \require{enclose}
 \begin{array}{c}
@@ -812,10 +882,12 @@ $$
     \enclose{roundedbox}{f(\bot),\, f^2(\bot),\, f^3(\bot) \,\cdots\, f^n(\bot)} \\
 \end{array}
 $$
+
 ```
 |使用 `box` 框住所有公式|
 |:--:|
 ```
+
 $$
 \require{enclose}
 \enclose{box}{
@@ -825,6 +897,7 @@ $$
     \end{array}
 }
 $$
+
 ```
 - 显示：
 
@@ -857,6 +930,7 @@ $$|
 
 - 例子：
 ```
+
 $$
 \begin{matrix}
     1 & x & x^2 \\
@@ -864,6 +938,7 @@ $$
     1 & z & z^2 \\
 \end{matrix}
 $$
+
 ```
 - 显示：
 $$
@@ -880,12 +955,14 @@ $$
 
 - 例子：
 ```
+
 $ \begin{matrix} 1 & 2 \\ 3 & 4 \\ \end{matrix} $
 $ \begin{pmatrix} 1 & 2 \\ 3 & 4 \\ \end{pmatrix} $
 $ \begin{bmatrix} 1 & 2 \\ 3 & 4 \\ \end{bmatrix} $
 $ \begin{Bmatrix} 1 & 2 \\ 3 & 4 \\ \end{Bmatrix} $
 $ \begin{vmatrix} 1 & 2 \\ 3 & 4 \\ \end{vmatrix} $
 $ \begin{Vmatrix} 1 & 2 \\ 3 & 4 \\ \end{Vmatrix} $
+
 ```
 - 显示：
 |matrix|pmatrix|bmatrix|Bmatrix|vmatrix|Vmatrix|
@@ -898,6 +975,7 @@ $ \begin{Vmatrix} 1 & 2 \\ 3 & 4 \\ \end{Vmatrix} $
 
 - 例子：
 ```
+
 $$
 \begin{pmatrix}
     1 & a_1 & a_1^2 & \cdots & a_1^n \\
@@ -906,6 +984,7 @@ $$
     1 & a_m & a_m^2 & \cdots & a_m^n \\
 \end{pmatrix}
 $$
+
 ```
 - 显示：
 $$
@@ -923,6 +1002,7 @@ $$
 
 - 例子：
 ```
+
 $$
 \left[
     \begin{array}{cc|c}
@@ -931,6 +1011,7 @@ $$
     \end{array}
 \right]
 $$
+
 ```
 - 显示：
 $$
@@ -950,9 +1031,10 @@ $$
 
 - 例子：
 ```
-这是一个行中矩阵的示例 $\bigl(\begin{smallmatrix} a & b \\ c & d \end{smallmatrix}\bigr)$ 
-```
 
+这是一个行中矩阵的示例 $\bigl(\begin{smallmatrix} a & b \\ c & d \end{smallmatrix}\bigr)$ 
+
+```
 - 显示：这是一个行中矩阵的示例 $\bigl(\begin{smallmatrix} a & b \\ c & d \end{smallmatrix}\bigr)$ 。
 
 #三、方程式序列使用参考
@@ -965,6 +1047,7 @@ $$
 
 - 例子：
 ```
+
 \begin{align}
     \sqrt{37} & = \sqrt{\frac{73^2-1}{12^2}} \\
               & = \sqrt{\frac{73^2}{12^2}\cdot\frac{73^2-1}{73^2}} \\ 
@@ -972,6 +1055,7 @@ $$
               & = \frac{73}{12}\sqrt{1-\frac{1}{73^2}} \\ 
               & \approx \frac{73}{12}\left(1-\frac{1}{2\cdot73^2}\right) \\
 \end{align}
+
 ```
 - 显示：
 \begin{align}
@@ -990,11 +1074,13 @@ $$
 
 - 例子：
 ```
+
 \begin{align}
     v + w & = 0  & \text{Given} \tag 1 \\
        -w & = -w + 0 & \text{additive identity} \tag 2 \\
    -w + 0 & = -w + (v + w) & \text{equations $(1)$ and $(2)$} \\
 \end{align}
+
 ```
 - 显示：
 \begin{align}
@@ -1016,13 +1102,15 @@ $$
 
 - 例子：
 ```
+
 $$
-    f(n) =
+f(n) =
         \begin{cases}
             n/2,  & \text{if $n$ is even} \\
             3n+1, & \text{if $n$ is odd} \\
         \end{cases}
 $$
+
 ```
 - 显示：
 $$
@@ -1041,8 +1129,9 @@ $$
 
 - 例子：
 ```
+
 $$
-    \left.
+\left.
         \begin{array}{l}
             \text{if $n$ is even:} & n/2 \\
             \text{if $n$ is odd:} & 3n+1 \\
@@ -1050,6 +1139,7 @@ $$
     \right\}
     =f(n)
 $$
+
 ```
 - 显示：
 $$
@@ -1070,6 +1160,7 @@ $$
 |不适配[2ex]|
 |:--:|
 ```
+
 $$
 f(n) = 
     \begin{cases}
@@ -1077,10 +1168,12 @@ f(n) =
         3n+1,        & \text{if $n$ is odd} \\
     \end{cases}
 $$
+
 ```
 |适配[2ex]|
 |:--:|
 ```
+
 $$
 f(n) = 
     \begin{cases}
@@ -1088,6 +1181,7 @@ f(n) =
         3n+1,        & \text{if $n$ is odd} \\
     \end{cases}
 $$
+
 ```
 - 显示：
 |不适配[2ex]|适配[2ex]|
@@ -1120,6 +1214,7 @@ $$|
 
 - 例子：
 ```
+
 \begin{array}{c|lcr}
     n & \text{左对齐} & \text{居中对齐} & \text{右对齐} \\
     \hline
@@ -1127,6 +1222,7 @@ $$|
     2 & -1 & 189 & -8 \\
     3 & -20 & 2000 & 1+10i \\
 \end{array}
+
 ```
 - 显示：
 \begin{array}{c|lcr}
@@ -1144,6 +1240,7 @@ $$|
 
 - 例子：
 ```
+
 $$
 \begin{array}{c} % 总表格
     \begin{array}{cc} % 第一行内分成两列
@@ -1176,8 +1273,8 @@ $$
     \end{array} % 第二行表格结束
 \end{array} % 总表格结束
 $$
-```
 
+```
 - 显示：
 $$
 \begin{array}{c} % 总表格
@@ -1218,6 +1315,7 @@ $$
 
 - 例子：
 ```
+
 $$
 \left\{ 
     \begin{array}{c}
@@ -1227,6 +1325,7 @@ $$
     \end{array}
 \right. 
 $$
+
 ```
 - 显示：
 $$
@@ -1243,11 +1342,13 @@ $$
 
 - 例子：
 ```
+
 \begin{cases}
     a_1x+b_1y+c_1z=d_1 \\ 
     a_2x+b_2y+c_2z=d_2 \\ 
     a_3x+b_3y+c_3z=d_3 \\
 \end{cases}
+
 ```
 - 显示：
 \begin{cases}
@@ -1264,6 +1365,7 @@ $$
 
 - 例子：
 ```
+
 $$
 x = a_0 + \cfrac{1^2}{a_1 +
             \cfrac{2^2}{a_2 +
@@ -1275,6 +1377,7 @@ x = a_0 + \cfrac{1^2}{a_1 +
             }
           }
 $$
+
 ```
 - 显示：
 $$
@@ -1293,6 +1396,7 @@ $$
 
 - **反例：**
 ```
+
 $$
 x = a_0 + \frac{1^2}{a_1 +
             \frac{2^2}{a_2 +
@@ -1304,6 +1408,7 @@ x = a_0 + \frac{1^2}{a_1 +
             }
           }
 $$
+
 ```
 - 显示：
 $$
@@ -1322,6 +1427,7 @@ $$
 
 - 例子：
 ```
+
 $$
 x = a_0 + \frac{1^2}{a_1 +}
           \frac{2^2}{a_2 +}
@@ -1329,6 +1435,7 @@ x = a_0 + \frac{1^2}{a_1 +}
           \frac{4^4}{a_4 +}
           \cdots
 $$
+
 ```
 - 显示：
 $$
@@ -1352,6 +1459,7 @@ $$
 
 - 例子：
 ```
+
 $$
 \require{AMScd}
 \begin{CD}
@@ -1360,6 +1468,7 @@ $$
     C @>>d> D \\
 \end{CD}
 $$
+
 ```
 - 显示：
 $$
@@ -1376,6 +1485,7 @@ $$
 
 - 例子：
 ```
+
 $$
 \require{AMDcd}
 \begin{CD}
@@ -1384,6 +1494,7 @@ $$
     D @= E @<<< F \\
 \end{CD}
 $$
+
 ```
 - 显示：
 $$
@@ -1399,12 +1510,14 @@ $$
 
 - 例子：
 ```
+
 $$
 \require{AMDcd}
 \begin{CD}
     \rm{RCOHR^{'}SO_3Na} @>{\large\text{Hydrolysis, $\Delta$, Dil.HCl}}>> \rm{(RCOR^{'})+NaCl+SO_2+ H_2O}
 \end{CD}
 $$
+
 ```
 - 显示：
 $$
@@ -1429,12 +1542,14 @@ Don't use `\frac` in exponents or limits of integrals; it looks bad and can be c
 
 - 例子：
 ```
+
 \begin{array}{cc}
     \mathrm{Bad} & \mathrm{Better} \\
     \hline \\
     \large e^{i\frac{\pi}2} \quad e^{\frac{i\pi}2}& \large e^{i\pi/2} \\[2ex]
     \int_{-\frac\pi2}^\frac\pi2 \sin x\,dx & \int_{-\pi/2}^{\pi/2}\sin x\,dx \\
 \end{array}
+
 ```
 - 显示：
 \begin{array}{cc}
@@ -1450,13 +1565,14 @@ The `|` symbol has the wrong spacing when it is used as a divider, for example i
 
 - 例子:
 ```
+
 \begin{array}{cc}
     \mathrm{Bad} & \mathrm{Better} \\
     \hline \\
     \{x|x^2\in\Bbb Z\} & \{x\mid x^2\in\Bbb Z\} \\
 \end{array}
-```
 
+```
 - 显示：
 \begin{array}{cc}
     \mathrm{Bad} & \mathrm{Better} \\
@@ -1471,6 +1587,7 @@ For double and triple integrals, don't use `\int\int` or `\int\int\int`. Instead
 
 - 例子：
 ```
+
 \begin{array}{cc}
     \mathrm{Bad} & \mathrm{Better} \\
     \hline \\
@@ -1479,8 +1596,8 @@ For double and triple integrals, don't use `\int\int` or `\int\int\int`. Instead
     \hline \\
     \text{多重积分示例} & \idotsint_{\boldsymbol{D}} f(x_1,x_2,\,\cdots\, ,x_n)\,{\rm d}x_1\cdots{\rm d}x_n
 \end{array}
-```
 
+```
 - 显示：
 $$
 \require{AMSmath}
@@ -1500,19 +1617,21 @@ Use `\,`, to insert a thin space before differentials; without this $\TeX$ will 
 
 - 例子：
 ```
+
 \begin{array}{cc}
     \mathrm{Bad} & \mathrm{Better} \\
     \hline \\
     \iiint_V f(x){\rm d}z {\rm d}y {\rm d}x & \iiint_{\boldsymbol{V}} f(x)\,{\rm d}z\,{\rm d}y\,{\rm d}x \\
 \end{array}
+
 ```
 
 - 显示：
-\begin{array}{cc}
+  \begin{array}{cc}
     \mathrm{Bad} & \mathrm{Better} \\
     \hline \\
     \iiint_V f(x){\rm d}z {\rm d}y {\rm d}x & \iiint_{\boldsymbol{V}} f(x)\,{\rm d}z\,{\rm d}y\,{\rm d}x \\
-\end{array}
+  \end{array}
 
 ---
 
