@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "15410e78ca135071",
+        "id": "8d8224d33ff7b9a3",
         "type": "tabs",
         "children": [
           {
-            "id": "43542694bdef0804",
+            "id": "48abac9d79b80932",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "语文/作文.md",
+                "file": "化学/实验化学基础.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -63,8 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 491.5,
-    "collapsed": true
+    "width": 491.5
   },
   "right": {
     "id": "de0e9f7ec501cabf",
@@ -80,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "语文/作文.md",
+                "file": "化学/实验化学基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "语文/作文.md",
+                "file": "化学/实验化学基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "语文/作文.md"
+                "file": "化学/实验化学基础.md"
               }
             }
           },
@@ -166,8 +165,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "14e2e01d2a945f88",
+  "active": "48abac9d79b80932",
   "lastOpenFiles": [
+    "语文/作文.md",
     "语文/信息类文本.md",
     "语文/文言文积累.md",
     "talk1.md",
