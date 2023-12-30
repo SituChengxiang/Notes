@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "8d8224d33ff7b9a3",
+        "id": "0b21744d4594ca28",
         "type": "tabs",
         "children": [
           {
-            "id": "48abac9d79b80932",
+            "id": "b9795c4e3fa68764",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "化学/元素化学基础.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -58,8 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 491.5,
-    "collapsed": true
+    "width": 491.5
   },
   "right": {
     "id": "de0e9f7ec501cabf",
@@ -75,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "化学/元素化学基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "化学/元素化学基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "化学/元素化学基础.md"
+              }
             }
           },
           {
@@ -147,18 +155,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "48abac9d79b80932",
+  "active": "14e2e01d2a945f88",
   "lastOpenFiles": [
+    "Excalidraw/生物学复习.excalidraw.md",
+    "Excalidraw/fonts/演示悠然小楷.ttf",
+    "Excalidraw/fonts",
+    "Excalidraw/新建文件夹",
+    "Excalidraw/Drawing 2023-12-29 23.13.13.excalidraw.md",
+    "Excalidraw",
+    "未命名.canvas",
     "物理/物理-必修第二册.md",
     "物理/物理-必修第一册.md",
     "政治/政治·必修三-政治与法治.md",
@@ -182,8 +198,6 @@
     "数学/必修第1册/必修1·第5章·三角函数.md",
     "数学/高一到高二暑假衔接.md",
     "数学/选择性必修第1册/数学选修1·第3章·圆锥曲线的方程.md",
-    "语文/高一到高二暑假·第5讲·小说阅读之含义理解.md",
-    "语文/高二秋季第8课·「文」语言运用之修辞手法.md",
-    "语文/高二寒假第4课·「今」中外戏剧阅读鉴赏.md"
+    "语文/高一到高二暑假·第5讲·小说阅读之含义理解.md"
   ]
 }
