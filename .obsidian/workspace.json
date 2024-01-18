@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "化学/元素化学基础.md",
+                "file": "历史/中国哲学史讲义.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "化学/元素化学基础.md",
+                "file": "历史/中国哲学史讲义.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "化学/元素化学基础.md",
+                "file": "历史/中国哲学史讲义.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "化学/元素化学基础.md"
+                "file": "历史/中国哲学史讲义.md"
               }
             }
           },
@@ -168,8 +168,8 @@
   },
   "active": "b9795c4e3fa68764",
   "lastOpenFiles": [
-    "化学/必修第1册/必修1·第2章-第一节-钠及其化合物.md",
     "化学/元素化学基础.md",
+    "化学/必修第1册/必修1·第2章-第一节-钠及其化合物.md",
     "Excalidraw/生物学复习.excalidraw.md",
     "Excalidraw/fonts/演示悠然小楷.ttf",
     "Excalidraw/fonts",
