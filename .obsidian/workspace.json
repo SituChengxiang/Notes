@@ -11,8 +11,13 @@
             "id": "5d7ca5fb69f6a03d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "语文/高二秋季第2课·「古」文言文阅读之文化常识.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -74,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "语文/高二秋季第2课·「古」文言文阅读之文化常识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "语文/高二秋季第2课·「古」文言文阅读之文化常识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "语文/高二秋季第2课·「古」文言文阅读之文化常识.md"
+              }
             }
           },
           {
