@@ -4,18 +4,72 @@
     "type": "split",
     "children": [
       {
-        "id": "a6877214afb4433f",
+        "id": "059354ad1d4d6ee0",
         "type": "tabs",
         "children": [
           {
-            "id": "130907164a9fc461",
+            "id": "2b50e531d93f1cb7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "localgraph",
+              "state": {
+                "file": "语文/名著阅读.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.660022879550482,
+                  "close": false
+                }
+              }
+            }
+          },
+          {
+            "id": "c0e86de8b43b1368",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "语文/高三寒假第4讲-人物心理分析和文学短评.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d8a6ce21f222195",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "语文/名著阅读.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -74,6 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "语文/名著阅读.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "语文/名著阅读.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +182,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "语文/名著阅读.md"
+              }
             }
           },
           {
@@ -166,8 +224,16 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "130907164a9fc461",
+  "active": "2d8a6ce21f222195",
   "lastOpenFiles": [
+    "语文/高三寒假第4讲-人物心理分析和文学短评.md",
+    "语文/小说.md",
+    "语文/小说扩展.md",
+    "语文/高三寒假第2讲·文言文推断.md",
+    "文言文积累.md",
+    "语文/文言文积累.md",
+    "语文/文言文.md",
+    "语文/高三寒假第1讲-哲理诗.md",
     "语文/高二秋季第2课·「古」文言文阅读之文化常识.md",
     "英语/英语词义分类数据库（大学版）（带词汇表目录）/英语词义分类数据库（大学版）/42呈现隐藏/06熟悉 陌生.md",
     "英语/英语词义分类数据库（大学版）（带词汇表目录）/英语词义分类数据库（大学版）/42呈现隐藏/03机密 秘密.md",
@@ -188,15 +254,7 @@
     "英语/英语词义分类数据库（大学版）（带词汇表目录）/英语词义分类数据库（大学版）/41安危存亡/01安全 危险.md",
     "英语/英语词义分类数据库（大学版）（带词汇表目录）/英语词义分类数据库（大学版）/41安危存亡/00安危存亡组目录.md",
     "英语/英语词义分类数据库（大学版）（带词汇表目录）/英语词义分类数据库（大学版）/41安危存亡",
-    "英语/英语词义分类数据库（大学版）（带词汇表目录）/英语词义分类数据库（大学版）/40道德品质/04责任 义务.md",
-    "英语/英语词义分类数据库（大学版）（带词汇表目录）/英语词义分类数据库（大学版）/40道德品质/03奢侈 浪费.md",
-    "英语/英语词义分类数据库（大学版）（带词汇表目录）/英语词义分类数据库（大学版）/40道德品质/02勤劳 懒惰.md",
-    "英语/英语词义分类数据库（大学版）（带词汇表目录）/英语词义分类数据库（大学版）/40道德品质/01道德 品质.md",
-    "英语/英语词义分类数据库（大学版）（带词汇表目录）/英语词义分类数据库（大学版）/40道德品质/00道德品质组目录（复习）.md",
-    "英语/英语词义分类数据库（大学版）（带词汇表目录）/英语词义分类数据库（大学版）/40道德品质/00道德品质组目录.md",
     "英语/英语词义分类数据库（大学版）（带词汇表目录）/英语词义分类数据库（大学版）/40道德品质",
-    "英语/英语词义分类数据库（大学版）（带词汇表目录）/英语词义分类数据库（大学版）/38人际关系/04摩擦 争执.md",
-    "英语/英语词义分类数据库（大学版）（带词汇表目录）/英语词义分类数据库（大学版）/38人际关系/03敌人 对手.md",
     "英语/英语词义分类数据库（大学版）（带词汇表目录）/英语词义分类数据库（大学版）/38人际关系",
     "英语/英语词义分类数据库（大学版）（带词汇表目录）/英语词义分类数据库（大学版）/37主动活动",
     "英语/英语词义分类数据库（大学版）（带词汇表目录）/英语词义分类数据库（大学版）/36家务劳动",
