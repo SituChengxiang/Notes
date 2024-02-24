@@ -67,9 +67,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "85e5f03193c6056c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -224,7 +234,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "2d8a6ce21f222195",
+  "active": "85e5f03193c6056c",
   "lastOpenFiles": [
     "语文/高三寒假第4讲-人物心理分析和文学短评.md",
     "语文/小说.md",

@@ -55,6 +55,23 @@ John Gruber 的原始设计文档中概述的基本语法每天增加了许多�
 
 详细内容可以访问[Markdown 中文网](http://markdown.p2hp.com/) ，如果您希望自己可以帮助我们，您可以在这里找到相当不错的教程，然后开始您的学习之旅(注：Markdown 中文网里 Github 上的一些文档可以不看)。我们推荐您完成基本语法和扩展语法后继续往下。
 
+这是Github调整之后的css，正常情况下所有的扩展都能用，多了一点点东西，很好看哦
+
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
+
+> [!TIP]
+> Optional information to help a user be more successful.
+
+> [!IMPORTANT]  
+> Crucial information necessary for users to succeed.
+
+> [!WARNING]  
+> Critical content demanding immediate user attention due to potential risks.
+
+> [!CAUTION]
+> Negative potential consequences of an action.
+
 ### LaTeX
 
 下列内容部分来自[百度百科-LaTeX](https://baike.baidu.com/item/LaTeX/1212106)
